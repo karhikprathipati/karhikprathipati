@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karhikprathipati
 - 👀 I’m interested in exploring
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning SpringBoot
 - 💞️ I’m looking to collaborate on webdev projects
 - 📫 How to reach me karthikprathipati1@gmail.com
 
